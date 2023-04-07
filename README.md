@@ -12,6 +12,9 @@ optimizationto improve workflow for any organization.
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=Android)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![C++](https://img.shields.io/badge/-c++-333333?style=flat&logo=c%2B%2B&logoColor=fff)
+
 
 
