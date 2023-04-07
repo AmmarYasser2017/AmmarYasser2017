@@ -22,3 +22,10 @@ optimizationto improve workflow for any organization.
   <a href="https://www.linkedin.com/in/ammar-yasser-13a705226"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="ammar.yasser20175@gmail.com"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AmmarYasser2017)  
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmmarYasser2017)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarYasser2017&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
